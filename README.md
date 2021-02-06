@@ -5,3 +5,4 @@ Naninigas, ang aking katawan. 'Pag umikot na ang plaka.
 This is from laptop.
 Yes, this is from laptop.
 again, this is from laptop too.
+for merging.
